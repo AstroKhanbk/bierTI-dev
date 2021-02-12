@@ -1,3 +1,4 @@
-# Introdução ao JavaScript
+# Introduction a JavaScript BackEnd
 
-Este é um repositório dos projetos realizados na formação da Alura, Formação JavaScript para Backend aonde estudamos Tipo, Variáveis, Funções, Arrays e Objetos.
+This is a repository of the projects carried out in Alura training, JavaScript Training for Backend.
+Themes: Type, Variables, Functions, Arrays and Objects.
